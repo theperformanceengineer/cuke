@@ -1,0 +1,3 @@
+com\mvnprj\demo\cuke\AppTest.class
+runner\TestRunner.class
+steps\HerokuAppStep.class
